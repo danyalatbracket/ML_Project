@@ -1,12 +1,12 @@
+pycaret
 pandas
-numpy
 seaborn
-matplotlib
 scikit-learn
 catboost
 xgboost
 dill
 flask
+shap
 # -e .
 
 # pip install -r requirements.txt
